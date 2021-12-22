@@ -20,7 +20,7 @@ npm install
 Correr con Android o iOS (solo ha sido testeado en Android) :
 
 ```bash
-react-native run-android
+npx react-native run-android
 # or
-react-native run-ios
+npx react-native run-ios
 ```
